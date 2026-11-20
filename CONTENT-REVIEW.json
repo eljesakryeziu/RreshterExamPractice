@@ -1,0 +1,42 @@
+{
+  "total": 4000,
+  "answerMaterial": "Përgjigjet për gradim_2026.pdf",
+  "existingQuestions": 500,
+  "importedAnswers": 3500,
+  "alternativeReview": "Alternativat e reja janë gjeneruar sipas modeleve dhe kërkojnë rishikim editorial; nuk është kryer verifikim individual i 3500 grupeve të reja.",
+  "alignmentReview": "Numërimi i zhvendosur në pjesën e trafikut u korrigjua; 26 përgjigje për patentë shoferi u plotësuan nga ligji publik.",
+  "reviewedSpecialCases": [
+    1590,
+    2011,
+    2160,
+    2564,
+    2567,
+    2568,
+    2623,
+    2628,
+    2727,
+    2740,
+    3162
+  ],
+  "sourceChecks": [
+    "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=12516",
+    "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=61759",
+    "https://gzk.rks-gov.net/ActDocumentDetail.aspx?ActID=10877"
+  ],
+  "manuallyReviewedAlternativeSets": 33,
+  "technicalValidation": {
+    "bankCheck": "passed",
+    "sessionSizeBytes": 61865,
+    "productionBuild": "passed",
+    "contentValidation": "not-complete"
+  },
+  "latestAudit": {
+    "date": "2026-11-15",
+    "recordsAutomaticallyChecked": 4000,
+    "individualAlternativeSetsThisPass": 31,
+    "repeatedTriplesBefore": 3363,
+    "repeatedTriplesRemaining": 3334,
+    "longAnswerCueCount": 688,
+    "fullyVerified": false
+  }
+}
